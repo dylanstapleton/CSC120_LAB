@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"LAB5","l":"getNumbers(int[])"},{"p":"<Unnamed>","c":"LAB5","l":"isFibonacci(int)"},{"p":"<Unnamed>","c":"LAB5","l":"isPrime(int)"},{"p":"<Unnamed>","c":"LAB5","l":"LAB5()","u":"%3Cinit%3E()"},{"p":"<Unnamed>","c":"LAB5","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
